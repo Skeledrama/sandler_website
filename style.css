@@ -1,6 +1,6 @@
-.nicefont{
-    font-family: "Red Hat Display", sans-serif;
+.red-hat-display-nicefont {
+  font-family: "Red Hat Display", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 300;
   font-style: normal;
 }
