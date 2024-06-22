@@ -13,7 +13,8 @@ body {
 
 .icons {
   width: 30px;
-    height: auto;
-    border: none;
+  height: auto;
+  border: none;
+  text-align: center;
 }
 
