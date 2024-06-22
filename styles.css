@@ -16,6 +16,8 @@ body {
   height: auto;
   border: none;
   filter: drop-shadow(3px 2px 2px rgb(0 0 0 / 0.4));
+  background-color: transparent;
+  text-decoration: none;
 }
 
 .center {
@@ -24,3 +26,4 @@ body {
   margin-right: auto;
   width: 4%;
 }
+
