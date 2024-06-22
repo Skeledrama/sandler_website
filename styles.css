@@ -10,3 +10,10 @@
 body {
   background-color: #1f2a4d;
 }
+
+.icons {
+  width: 30px;
+    height: auto;
+    border: none;
+}
+
