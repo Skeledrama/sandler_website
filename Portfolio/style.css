@@ -1,0 +1,38 @@
+.red-hat-display-nicefont {
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: lightgrey;
+  text-align: center;
+}
+
+body {
+  background-color: #1f2a4d;
+}
+
+.icons {
+  width: 16px;
+  height: auto;
+  border: none;
+  filter: drop-shadow(3px 2px 2px rgb(0 0 0 / 0.4));
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 56px;
+}
+
+.nopurplebox {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.marshall {
+  width: 64px;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
