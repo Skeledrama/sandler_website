@@ -12,9 +12,9 @@ body {
 }
 
 .icons {
-  width: 30px;
+  width: 16px;
   height: auto;
   border: none;
-  text-align: center;
+  filter: drop-shadow(3px 2px 2px rgb(0 0 0 / 0.4));
 }
 
